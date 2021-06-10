@@ -1,0 +1,110 @@
+
+/* Home*/
+.menu-s2.main-menu nav ul li.active a:before{
+	color:#17add8;
+}
+.menu-s2.main-menu nav ul li a:hover{
+    color: #17add8; 
+}
+.menu-s2.main-menu nav ul li a:hover:before {
+    color: #17add8; 
+}
+.hb-s2-right li a:hover, .hb-s2-right li a.active {
+    background-color: #17add8;
+}
+.slider-content h2 span {
+    color: #17add8;
+}
+.slider-content a{
+	background: #17add8;
+}
+.section-title-s2 h2{
+	color: #17add8;
+}
+.abt2-content a:hover {
+    
+    background: #17add8;
+}
+ul.cs-meta-stats li i {
+    color: #17add8;
+}
+.commn-carousel .owl-dots .active {
+    background: #17add8;
+}
+.cs-price{
+	background: #17add8;
+}
+.cs-prices{
+	background: #17add8;
+}
+.tst-content .section-title span {
+    color: #17add8;
+}
+.tst-carousel .owl-dots .active {
+    background: #17add8;
+    border-color: #17add8;
+}
+.tch-content span{
+	color: #17add8;
+}
+.tch-content span{
+	color: #17add8;
+}
+.blog-content h2 a:hover{
+	color: #17add8;
+}
+.blog-content span{
+	color: #17add8;
+}
+.fwidget-title{
+	color: #17add8;
+}
+.address h2{
+	color: #17add8;
+}
+.twitter-post a{
+	color: #17add8;
+}
+span.post-date i {
+    color: #17add8;
+}
+.footer-bottom p span {
+    color: #17add8;
+}
+
+/*courses*/
+.crumb-content h4 span {
+    color: #17add8;
+}
+.cs-dts .btn{
+	background:#17add8;
+}
+.wd-offer a{
+	background:#17add8;
+}
+.w-cs-single span{
+	color: #17add8;
+}
+.subscribe form button{
+	background: #17add8;
+}
+.cs-cmnt-meta ul li{
+	color: #17add8;
+}
+.cs-cmnt-meta>a{
+	color: #17add8;
+}
+.leave-comment-area form button{
+	background: #17add8;
+}
+
+/*about*/
+.section-title h3 span{
+	color: #17add8;
+}
+.abt-left-content a{
+	background: #17add8;
+}
+.section-title h2 span{
+	color: #17add8;
+}

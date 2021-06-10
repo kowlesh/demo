@@ -1,0 +1,110 @@
+
+/* Home*/
+.menu-s2.main-menu nav ul li.active a:before{
+	color:#ffa502;
+}
+.menu-s2.main-menu nav ul li a:hover{
+    color: #ffa502; 
+}
+.menu-s2.main-menu nav ul li a:hover:before {
+    color: #ffa502; 
+}
+.hb-s2-right li a:hover, .hb-s2-right li a.active {
+    background-color: #ffa502;
+}
+.slider-content h2 span {
+    color: #ffa502;
+}
+.slider-content a{
+	background: #ffa502;
+}
+.section-title-s2 h2{
+	color: #ffa502;
+}
+.abt2-content a:hover {
+    
+    background: #ffa502;
+}
+ul.cs-meta-stats li i {
+    color: #ffa502;
+}
+.commn-carousel .owl-dots .active {
+    background: #ffa502;
+}
+.cs-price{
+	background: #ffa502;
+}
+.cs-prices{
+	background: #ffa502;
+}
+.tst-content .section-title span {
+    color: #ffa502;
+}
+.tst-carousel .owl-dots .active {
+    background: #ffa502;
+    border-color: #ffa502;
+}
+.tch-content span{
+	color: #ffa502;
+}
+.tch-content span{
+	color: #ffa502;
+}
+.blog-content h2 a:hover{
+	color: #ffa502;
+}
+.blog-content span{
+	color: #ffa502;
+}
+.fwidget-title{
+	color: #ffa502;
+}
+.address h2{
+	color: #ffa502;
+}
+.twitter-post a{
+	color: #ffa502;
+}
+span.post-date i {
+    color: #ffa502;
+}
+.footer-bottom p span {
+    color: #ffa502;
+}
+
+/*courses*/
+.crumb-content h4 span {
+    color: #ffa502;
+}
+.cs-dts .btn{
+	background:#ffa502;
+}
+.wd-offer a{
+	background:#ffa502;
+}
+.w-cs-single span{
+	color: #ffa502;
+}
+.subscribe form button{
+	background: #ffa502;
+}
+.cs-cmnt-meta ul li{
+	color: #ffa502;
+}
+.cs-cmnt-meta>a{
+	color: #ffa502;
+}
+.leave-comment-area form button{
+	background: #ffa502;
+}
+
+/*about*/
+.section-title h3 span{
+	color: #ffa502;
+}
+.abt-left-content a{
+	background: #ffa502;
+}
+.section-title h2 span{
+	color: #ffa502;
+}
